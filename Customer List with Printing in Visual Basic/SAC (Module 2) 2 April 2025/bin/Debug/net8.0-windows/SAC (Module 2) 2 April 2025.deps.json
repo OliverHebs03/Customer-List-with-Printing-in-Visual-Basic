@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SAC (Module 2) 2 April 2025/1.0.0": {
+        "runtime": {
+          "SAC (Module 2) 2 April 2025.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SAC (Module 2) 2 April 2025/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
